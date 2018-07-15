@@ -1,0 +1,12 @@
+name: cellproliferation
+title: cellproliferation
+username:
+account: dpastoor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 381160
+bundleId: 1480805
+url: https://dpastoor.shinyapps.io/cellproliferation/
+when: 1531603511.82913
+asMultiple: FALSE
+asStatic: FALSE
